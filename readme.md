@@ -1,5 +1,6 @@
-## Problem Set 1 
-[Link to Harvard CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science/)
+# Problem Set 1: Mario
+[Link to Harvard's CS50 Course Details Page]
+(https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 ## Compile program
 ```bash
